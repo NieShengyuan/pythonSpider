@@ -12,13 +12,13 @@ import random
 global NUM
 
 url_datas = [
-    'https://smartcar.cdstm.cn:8083/tpftl/8/ce2dcb2e4d53439596469ef40f88d73d.html?https://smartcar.cdstm.cn',
-    'https://smartcar.cdstm.cn:8083/tpftl/8/b6e8f8918d9345cb95746b105f23808a.html?https://smartcar.cdstm.cn',
-    'https://smartcar.cdstm.cn:8083/tpftl/8/73f5d464d22b4834a6ffafec20acda02.html?https://smartcar.cdstm.cn',
-    'https://smartcar.cdstm.cn:8083/tpftl/8/51b564b50d114a459de984c5754163ed.html?https://smartcar.cdstm.cn',
-    'https://smartcar.cdstm.cn:8083/tpftl/8/415f6ebd72ab4ad3a96528272cd0066f.html?https://smartcar.cdstm.cn',
-    'https://smartcar.cdstm.cn:8083/tpftl/8/4bc2bc1ff9eb484491a99829a0833d14.html?https://smartcar.cdstm.cn',
-    'https://smartcar.cdstm.cn:8083/tpftl/8/bb30be1030e14e0db910977a331b0eae.html?https://smartcar.cdstm.cn'
+    'https://***.cn',
+    'https://***.cn',
+    'https://***.cn',
+    'https://***.cn',
+    'https://***.cn',
+    'https://***.cn',
+    'https://***.cn'
 ]
 
 
